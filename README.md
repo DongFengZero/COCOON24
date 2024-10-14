@@ -6,3 +6,7 @@ Our exploratory experiments on NAS tasks are particularly grateful for the work 
 https://github.com/carpedm20/ENAS-pytorch
 
 If you have further questions, please contact xiarui21@nudt.edu.cn
+
+Given the randomness of experimental results, we provide the experimental samples presented in our paper for everyone to verify.
+Address：https://pan.baidu.com/s/1Z0M8JnUaqcWcoA1FCvXpYA?pwd=6nc7 
+Code：6nc7 
