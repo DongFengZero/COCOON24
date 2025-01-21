@@ -10,7 +10,3 @@ For readers who are interested in "Introducing the I/O Lower Bound Theorem into 
 If you have further questions, please contact xiarui21@nudt.edu.cn
 
 Given the randomness of experimental results, we provide the experimental samples presented in our paper to verify in TEST.zip.
-
-More information is given in：
-Address：https://pan.baidu.com/s/1Z0M8JnUaqcWcoA1FCvXpYA?pwd=6nc7 
-Code：6nc7 
