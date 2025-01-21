@@ -11,6 +11,7 @@ If you have further questions, please contact xiarui21@nudt.edu.cn
 
 Taking into account the randomness of the experimental results, we provide all the neural network models generated in 100 (101) epochs of the experiment that generated the data given in the paper in TEST.zip for verification.
 
-For more information, see (Note: we provide the trained model weights, based on which similar results may be produced (99-100 rounds for CIFAR100, 108-109 rounds for CIFAR100 (the weights of 100 epochs for CIFAR100 are not saved, so the model weights of 108-109 epochs with late stopping are provided))):
+For more information, see 
 Address：https://pan.baidu.com/s/1Z0M8JnUaqcWcoA1FCvXpYA?pwd=6nc7 
 Code：6nc7 
+(Note: We provide the training model weights, based on which similar results may be produced (99-100 rounds for CIFAR100, 108-109 rounds for CIFAR100 (the weights of 100 epochs of CIFAR100 were not saved because they were automatically cleared, so the model weights of 108-109 epochs when the training was stopped late))):
