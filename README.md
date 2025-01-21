@@ -15,4 +15,4 @@ For more information, see
 Address：https://pan.baidu.com/s/1Z0M8JnUaqcWcoA1FCvXpYA?pwd=6nc7 
 Code：6nc7 
 
-(Note: We provide the training model weights, based on which similar results may be produced (99-100 rounds for CIFAR100, 108-109 rounds for CIFAR100 (the weights of 100 epochs of CIFAR100 were not saved because they were automatically cleared, so the model weights of 108-109 epochs when the training was stopped late)))
+Note: We provide the training model weights that produced the corresponding results. Similar results may be produced based on these weights (not guaranteed to be the same. For completely identical results, please refer to the 100 (CIFAR100：101) rounds of neural network structure diagram we provided). These files serve as evidence that we implemented the experiment and are for researchers' reference only (CIFAR100 is 99-100 rounds, CIFAR100 is 108-109 rounds. The weights of CIFAR100 training at 100 epochs were automatically cleared and could not be saved, so the model weights of 108-109 epochs when the training was stopped late are provided):
