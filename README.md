@@ -14,4 +14,5 @@ Taking into account the randomness of the experimental results, we provide all t
 For more information, see 
 Address：https://pan.baidu.com/s/1Z0M8JnUaqcWcoA1FCvXpYA?pwd=6nc7 
 Code：6nc7 
-(Note: We provide the training model weights, based on which similar results may be produced (99-100 rounds for CIFAR100, 108-109 rounds for CIFAR100 (the weights of 100 epochs of CIFAR100 were not saved because they were automatically cleared, so the model weights of 108-109 epochs when the training was stopped late))):
+
+(Note: We provide the training model weights, based on which similar results may be produced (99-100 rounds for CIFAR100, 108-109 rounds for CIFAR100 (the weights of 100 epochs of CIFAR100 were not saved because they were automatically cleared, so the model weights of 108-109 epochs when the training was stopped late)))
