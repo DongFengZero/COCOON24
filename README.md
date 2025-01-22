@@ -7,7 +7,7 @@ https://github.com/carpedm20/ENAS-pytorch
 
 For readers who are interested in "Introducing the I/O Lower Bound Theorem into NAS Tasks", we strongly recommend that you read the appendix first, where we explain the experimental setup and the suggestions and future directions we give based on our experimental experience. If you have more suggestions or questions, you are welcome to discuss them via email.
 
-Taking into account the randomness of the experimental results, we provide all the neural network models generated in 100 (101) epochs of the experiment that generated the data given in the paper in TEST.zip for verification.
+Taking into account the randomness of the experimental results, we provide all the neural network models generated in 100 (CIFAR100：101) epochs of the experiment that generated the data given in the paper in TEST.zip for verification.
 
 For more information, see 
 Address：https://pan.baidu.com/s/1Z0M8JnUaqcWcoA1FCvXpYA?pwd=6nc7 
