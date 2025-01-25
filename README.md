@@ -5,6 +5,8 @@ Due to space limitations, we provide the paper's appendix in this repository.
 Our exploratory experiments on NAS tasks are particularly grateful for the work on Efficient Neural Architecture Search (ENAS).
 https://github.com/carpedm20/ENAS-pytorch
 
+Update: We fixed some issues in the code on January 25, 2025.
+
 For readers who are interested in "Introducing the I/O Lower Bound Theorem into NAS Tasks", we strongly recommend that you read the appendix first, where we explain the experimental setup and the suggestions and future directions we give based on our experimental experience. If you have more suggestions or questions, you are welcome to discuss them via email.
 
 Taking into account the randomness of the experimental results, we provide all the neural network models generated in 100 (CIFAR100：101) epochs of the experiment that generated the data given in the paper in TEST.zip for verification.
