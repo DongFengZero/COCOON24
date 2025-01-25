@@ -1,4 +1,4 @@
-# An Approach to Tight I/O Lower Bounds for Algorithms with Composite Procedures（2025-1-25）
+# An Approach to Tight I/O Lower Bounds for Algorithms with Composite Procedures
 
 Due to space limitations, we provide the paper's appendix in this repository.
 
