@@ -5,7 +5,7 @@ Due to space limitations, we provide the paper's appendix in this repository.
 Our exploratory experiments on NAS tasks are particularly grateful for the work on Efficient Neural Architecture Search (ENAS).
 https://github.com/carpedm20/ENAS-pytorch
 
-Update: We fixed some issues in the code on January 25, 2025.
+Update: On January 25, 2025, we fixed an issue in the code. Specifically, the previous version underestimated the I/O floor to a certain extent when determining the number of I/Os during cache reuse. This issue has now been corrected. Please note that the search process described in this article is based on the original unfixed code, and we also provide the original data of the search process as a reference. For more rigorous academic discussion, we include both the original and updated versions of the code in the repository. In addition, we plan to further address this issue in subsequent work.
 
 For readers who are interested in "Introducing the I/O Lower Bound Theorem into NAS Tasks", we strongly recommend that you read the appendix first, where we explain the experimental setup and the suggestions and future directions we give based on our experimental experience. If you have more suggestions or questions, you are welcome to discuss them via email.
 
