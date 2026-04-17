@@ -1,6 +1,11 @@
 # An Approach to Tight I/O Lower Bounds for Algorithms with Composite Procedures
 
-Due to space limitations, we provide the paper's appendix in this repository.
+Due to space limitations, the paper's appendix is provided in this repository.
+
+April 18, 2026 — Update Preview:
+
+1. The results on lower bounds for template computations in the original conference paper will be corrected and revised, with an updated version to be published later this year.
+2. The I/O evaluation algorithm for the composite method described in Appendix B will be republished following the paper’s acceptance by the journal.
 
 ## Some additional explanations on NAS task applications (skip if not interested)
 
