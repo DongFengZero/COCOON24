@@ -9,6 +9,8 @@ May 7th, 2026 — Update Preview:
   
 2. The I/O evaluation algorithm for the composite method described in Appendix B has been expanded upon with a more comprehensive analytical framework, which is currently undergoing journal review. To avoid impacting the review process, this section will be republished after acceptance by the journal. (Coming Soon)
 
+3. Due to the author's limited understanding of the theory, the analytical process described in the paper still has some shortcomings and deficiencies. If you are interested in providing guidance, please feel free to contact me via email. If I can continue in academia, I also hope to learn something in this area, and I would be extremely grateful.
+
 ## Some additional explanations on NAS task applications (skip if not interested)
 
 Our exploratory experiments on NAS tasks are particularly grateful for the work on Efficient Neural Architecture Search (ENAS).
