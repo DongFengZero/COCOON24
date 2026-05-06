@@ -5,7 +5,9 @@ Due to space limitations, the paper's appendix is provided in this repository.
 April 18, 2026 — Update Preview:
 
 1. The results on lower bounds for stencils (Table 2) in the original conference paper will be corrected and revised, with an updated version to be published later this year.
-2. The I/O evaluation algorithm for the composite method described in Appendix B will be republished following the paper’s acceptance by the journal. (Soon)
+(Completed on May 7th: We supplemented the analysis process of the cases given in Table 2 of the paper, and constructed a series of cases with limited fast memory access to demonstrate the necessity of using the reference inclusion-exclusion principle to revise the X-Partition theorem.)
+  
+2. The I/O evaluation algorithm for the composite method described in Appendix B has been expanded upon with a more comprehensive analytical framework, which is currently undergoing journal review. To avoid impacting the review process, this section will be republished after acceptance by the journal. (Coming Soon)
 
 ## Some additional explanations on NAS task applications (skip if not interested)
 
