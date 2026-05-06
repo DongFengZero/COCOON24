@@ -2,7 +2,7 @@
 
 Due to space limitations, the paper's appendix is provided in this repository.
 
-April 18, 2026 — Update Preview:
+May 7th, 2026 — Update Preview:
 
 1. The results on lower bounds for stencils (Table 2) in the original conference paper will be corrected and revised, with an updated version to be published later this year.
 (Completed on May 7th: We supplemented the analysis process of the cases given in Table 2 of the paper, and constructed a series of cases with limited fast memory access to demonstrate the necessity of using the reference inclusion-exclusion principle to revise the X-Partition theorem.)
