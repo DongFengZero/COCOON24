@@ -5,8 +5,11 @@ Due to space limitations, the paper's appendix is provided in this repository.
 May 7th, 2026 — Update Preview:
 
 1. The results on lower bounds for stencils (Table 2) in the original conference paper will be corrected and revised, with an updated version to be published later this year.
+
 (Completed on May 7th: We supplemented the analysis process of the cases given in Table 2 of the paper, and constructed a series of cases with limited fast memory access to demonstrate the necessity of using the reference inclusion-exclusion principle to revise the X-Partition theorem. We also corrected a minor error in the calculation of the adi operator. The original paper $\mathcal{T}_3(S) \geq \max(4ab - S, 0)+ \max(3ab - S, 0)+\max (8(ab-\frac{S-4ab}{8}),0)$ should be corrected to $\mathcal{T}_1(S) + \mathcal{T}_3(S) \geq \max(4ab - S, 0)+ \max(3ab - S, 0)+\max (8(ab-\frac{S-4ab}{8}),0)$.(Fixed in Final_Paper(Update20260507).pdf and Stencil_Operator_Analysis_Table2.pdf)
-  
+
+(May 12 Update: Refined a small section of the description of seidel2d in Stencil_Operator_Analysis_Table2.pdf.)
+
 2. The I/O evaluation algorithm for the composite method described in Appendix B has been expanded upon with a more comprehensive analytical framework, which is currently undergoing journal review. To avoid impacting the review process, this section will be republished after acceptance by the journal. (Coming Soon)
 
 3. Due to the author's limited understanding of the theory, the analytical process described in the paper still has some shortcomings and deficiencies. If you are interested in providing guidance, please feel free to contact me via email. If I can continue in academia, I also hope to learn something in this area, and I would be extremely grateful.
