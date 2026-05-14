@@ -41,7 +41,7 @@ Note:
    
    2.1 When the fast memory capacity approaches its limit, the source code prematurely sets `vol` to full capacity during write-back estimation, thus overestimating the operand size under worst-case assumptions. 
 
-   2.2 Furthermore, the old implementation considered the worst-case write-back count (data_info[last_node] - data_now[last_node]) in the data transfer logic, and did not set a replacement code after reading (data_now[last_node] = data_info[last_node], updated only during write-back, not during read to simulate the worst case). Obviously, this constructs an extreme worst-case scenario, which may lead to overestimation.
+   2.2 Furthermore, the old implementation considered the worst-case write-back count (data_info[last_node] - data_now[last_node]) in the data transfer logic, and did not set the replacement code after reading (data_now[last_node] = data_info[last_node]). It only updated during write-backs and not during reads, maintaining the balance solely through clear_data to simulate the worst-case scenario. Clearly, this constructs an extreme worst-case scenario, which may lead to overestimation.
 
    2.3 Nevertheless, since the overall analysis framework and implementation itself remain applicable under these worst-case assumptions, and the randomness and uncertainty of fast memory make these worst-case scenarios meaningful for evaluation, these issues do not affect the validity of the exploratory conclusions presented in this paper. This behavior can be considered a special case of the original code evaluating performance under worst-case assumptions.
 
